@@ -1,1 +1,1 @@
-# Reposotory for Python Training
+# Репозеторий для тренинга
